@@ -1,8 +1,8 @@
-Nominal Diameter,No of strands,Cross section of conductor,Resistance at 20 °„C,,,Outer diameter unserved,,,,Outer diameter single served,,,,Outer diameter double served,,,,1 kg HF-Litzwire unserved,
+Nominal Diameter,No of strands,Cross section of conductor,Resistance at 20 C,,,Outer diameter unserved,,,,Outer diameter single served,,,,Outer diameter double served,,,,1 kg HF-Litzwire unserved,
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,Grade 1,,Grade 2,,Grade 1,,Grade 2,,Grade 1,,Grade 2,,Grade 1,Grade 2
 ,,,nom,min,max,min,max,min,max,min,max,min,max,min,max,min,max,Length,Length
-[mm],#,[mm?],[Ohm/m],[Ohm/m],[Ohm/m],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[m/kg],[m/kg]
+[mm],#,[mm2],[Ohm/m],[Ohm/m],[Ohm/m],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[mm],[m/kg],[m/kg]
 0.02,10,0.0031,5.55,4.995,6.105,0.087,0.095,0.099,0.107,0.112,0.135,0.124,0.147,0.137,0.175,0.149,0.187,"33,344.48","31,689.48"
 0.02,12,0.0038,4.655,4.1625,5.0875,0.095,0.104,0.108,0.177,0.12,0.144,0.133,0.157,0.145,0.184,0.158,0.197,"22,787.07","26,407.90"
 0.02,16,0.005,3.4688,3.1219,3.8156,0.111,0.121,0.126,0.138,0.136,0.161,0.151,0.176,0.163,0.201,0.176,0.216,"20,840.30","19,805.93"
